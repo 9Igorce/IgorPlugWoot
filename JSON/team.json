@@ -1,0 +1,59 @@
+{
+	"join" : {
+		"dev" : {
+			"ids" : [
+			]
+		}
+	},
+	"dev" : {
+		"ids" : [	
+			3455675
+		],
+		"rollover" : {
+			 "classteam" : "developer",
+			 "icon" : "https://i.imgur.com/7MHdeHw.png",
+			 "langkey": "titleDev",
+			 "color": "#db182e"
+		}
+	},
+	"vip1" : {
+		"ids" : [			
+		],
+		"rollover" : {
+			 "classteam" : "vip1",
+			 "icon" : "https://i.imgur.com/AOTw6Jh.png",
+			 "langkey": "titlevip",
+			 "color": "#FF7700"
+		}
+	},
+	"spreader" : {
+		"ids" : [
+		],
+		"rollover" : {
+			 "classteam" : "spreader",
+			 "icon" : "https://i.imgur.com/8C2lwaC.png",
+			 "langkey": "titleSpreader",
+			 "color": "#238341"
+		}
+	},
+	"helper" : {
+		"ids" : [
+		],
+		"rollover" : {
+			 "classteam" : "helper",
+			 "icon" : "https://i.imgur.com/H7aiAN8.png",
+			 "langkey": "titleHelper",
+			 "color": "#00B3DB"
+		}
+	},
+	"designer" : {
+		"ids" : [
+		],
+		"rollover" : {
+			 "classteam" : "designer",
+			 "icon" : "https://i.imgur.com/sQaTPcv.png",
+			 "langkey": "titleDesigner",
+			 "color": "#825AAE"
+		}
+	}
+}
