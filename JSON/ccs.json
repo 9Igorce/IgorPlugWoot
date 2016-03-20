@@ -2,6 +2,9 @@
   "customRooms" : {
     "edtentertainment" : {
       "title" : "EDTPlugWoot" 
+    },
+    "trap-core" : {
+      "title" : "CorePlugWoot"
     }
   }
 }
