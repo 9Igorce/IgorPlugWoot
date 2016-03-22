@@ -8,6 +8,9 @@ window.ipw = {
     },
     "chill-chillstep-ambient-music" : {
       "title" : "ChillPlugWoot"
+    },
+    "tedentertainment" : {
+      "title" : "TEDPlugWoot"
     }
   }
 };
