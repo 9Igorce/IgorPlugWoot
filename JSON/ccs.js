@@ -3,7 +3,7 @@ window.ipw = {
     "edtentertainment" : {
       "title" : "EDTPlugWoot" 
     },
-    "trap-core" : {
+    "tcentertainment" : {
       "title" : "CorePlugWoot"
     },
     "chill-chillstep-ambient-music" : {
