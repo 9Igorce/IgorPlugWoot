@@ -4,6 +4,7 @@
      "titleHelper":        "IgorPlugWoot Helper",
     "titleSpreader":      "IgorPlugWoot Spreader",
  	"titleDesigner": 	  "IgorPlugWoot Designer",
+ 	"pc":	"Private chat",
  	"pm_users":"Users",
 	"openpm" : "Open Private Chat",
 	"closepm" : "Close",
