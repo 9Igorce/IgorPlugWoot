@@ -17,7 +17,8 @@
 		}
 	},
 	"vip1" : {
-		"ids" : [			
+		"ids" : [	
+			3424833
 		],
 		"rollover" : {
 			 "classteam" : "vip1",
