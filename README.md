@@ -7,6 +7,7 @@
 Our Team
 ---
  - [Igorce9]() __(Owner/Developer)__
+ - [෴Ꮹααвяเєєℒ෴]() __(Developer)__
 
 -----------------
 Usage
@@ -29,3 +30,6 @@ Features
 - User Join
 - User Leave
 - Vote List
+- Split Chat
+- Meh Notif
+- Grab Notif
