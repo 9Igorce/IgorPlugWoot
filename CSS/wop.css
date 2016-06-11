@@ -184,13 +184,6 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 #user-menu .item .label { top: 7px !important; } 
 .experience .xp .next-level, .app-right .friends .list .row .room { color: #FFFFFF !important; }
 
-/* Barra de EXP */
-.experience .xp .bar .progress {
-border-radius: 10px 0px 10px 0px !important; background: #FF69E1; box-shadow: 0 0 10px 5px #FF69E1; }
-#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #FF69E1; box-shadow: 0 0 15px #FF69E1 !important; }
-.experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
-#footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
-
 /* Room Info / Opções no menu da sala e botões! */
 
 #room-info { opacity:  .90; }
