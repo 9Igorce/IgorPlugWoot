@@ -5,7 +5,8 @@ window.ipw = {
       "background" : "https://i.imgur.com/QKspQYZ.jpg"
     },
     "world-of-pop" : {
-      "title" : "WOPPlugWoot"
+      "title" : "WOPPlugWoot",
+      "css" : "https://rawgit.com/9Igorce/IgorPlugWoot/master/CSS/wop.css"
     }
   }
 };
