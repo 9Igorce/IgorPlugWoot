@@ -33,3 +33,4 @@ Features
 - Split Chat
 - Meh Notif
 - Grab Notif
+- Private Chat Window
