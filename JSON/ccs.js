@@ -6,7 +6,7 @@ window.ipw = {
     },
     "world-of-pop" : {
       "title" : "WOPPlugWoot",
-      "css" : "https://rawgit.com/9Igorce/IgorPlugWoot/master/CSS/wop.css"
+      "css" : "https://cdn.jsdelivr.net/gh/9Igorce/IgorPlugWoot/CSS/wop.css"
     }
   }
 };
